@@ -1,0 +1,27 @@
+p{
+	/*Content - Width and Height*/
+	width: 200px;
+	/*width: 50%;*/
+	/*height: 100px;*/
+
+	/*Border*/
+	border: 2px solid blue;
+	/*border-top: 20px;*/
+	/*border-bottom: 20px;*/
+
+	/*Padding*/
+	padding: 10px;
+	/*padding-left: 40px;*/
+	/*padding-right: 40px;*/	
+
+	/*Margin*/
+	margin: 30px;
+	/*margin-left: 20px;*/
+	/*margin-top: 40px;*/
+	/*margin: top right bottom left;
+	margin: 20px 40px 500px 100px;*/
+	/*margin: 0 auto 0 auto; -> It centers things for us*/
+	/*margin: 0 auto -> Same and this sets both right and left to auto*/
+	/*margin: 50px 20px;*/
+
+}
